@@ -1,3 +1,3 @@
 # Scanner Plugin Ionic 2 Project 
 
-*test version 0.2*
+*testing Document Scanner Plugin with ionic 2, Angular 2*
